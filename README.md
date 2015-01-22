@@ -12,9 +12,9 @@ https://github.com/xpirt/sdat2img/blob/master/sdat2img.py
 
 
 Usage:  
-java -jar SDA2Image system.transfer.list system.new.dat system.img
+>java -jar SDA2Image system.transfer.list system.new.dat system.img
 
 When decompressing cm-12 image use the sda2img script  
-sda2img /path/to/cm-12-IMAGE.zip
+>sda2img /path/to/cm-12-IMAGE.zip
 
 
